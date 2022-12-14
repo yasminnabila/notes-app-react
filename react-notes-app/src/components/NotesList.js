@@ -1,3 +1,5 @@
+import Note from "./Note";
+
 const NotesList = () => {
   return (
     <div className="notes-list">
@@ -7,4 +9,3 @@ const NotesList = () => {
 };
 
 export default NotesList;
-gi;
