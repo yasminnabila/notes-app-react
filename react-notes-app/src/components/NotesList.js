@@ -7,3 +7,4 @@ const NotesList = () => {
 };
 
 export default NotesList;
+gi;
