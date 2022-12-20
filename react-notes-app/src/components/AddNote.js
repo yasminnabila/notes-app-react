@@ -1,6 +1,6 @@
 const AddNote = () => {
   return (
-    <div className="note-new">
+    <div className="note new">
       <textarea
         rows="8"
         cols="10"
